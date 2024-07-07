@@ -11,6 +11,7 @@ Description
 구르기 (Shif)
 
 벽타기 (Z)
+
 Z클릭 시 캐릭터 앞으로 Line Trace로 확인 후 Climbing Start(State를 Climbing으로 교체, 중력 제거, Movement Mode Flying교체, 후 Line Trace에서 얻어온 위치로 이동)
 이동 중 Capsule Trace로 갈수있는 곳이 없을경우 갈방향의 앞뒤로 확인후 SideTurn 또는 ForwradTurn가 나오도록함
 위로 갈수없을경우 위와같은 방법으로 올라간 후 Climbing End(Start에서 교체한 값을 원래값대로 수정)
@@ -69,31 +70,53 @@ Magic (추가예정)
 
 
 -공격-
-일반 좌클릭 공격
+일반 좌클릭 공격, 계속 좌클릭 콤보공격
+
+
+https://github.com/wjh6052/Portfolio_BP/assets/131844165/494480f6-e381-4173-926a-5f46643c2965
+
 
 우클릭 가드 또는 줌
 
 마우스 휠클릭 락온
+![ScreenShot00002](https://github.com/wjh6052/Portfolio_BP/assets/131844165/89be1de2-6f90-4599-beab-6db7dfc9e10a)
 
 쉬프트 이동중 좌클릭 대쉬공격
 
 스킬1 1번
 
+
+https://github.com/wjh6052/Portfolio_BP/assets/131844165/3a860aa3-6b42-4ebf-a88f-7235939fee12
+
+
 스킬2 2번
+
+
+https://github.com/wjh6052/Portfolio_BP/assets/131844165/a660374c-2264-41df-a6b4-443af9557a3f
+
 
 스킬3 3번
 
 
+https://github.com/wjh6052/Portfolio_BP/assets/131844165/bda054f4-7a9b-4af6-90d7-a4f945265724
+
+
+
+
+
+
 
 -위젯-
-설명창
 
-디버그
 
-HP창
+디버그, HP창, 상호작용
 
-상호작용
+![ScreenShot00000](https://github.com/wjh6052/Portfolio_BP/assets/131844165/e94b080b-c288-4e80-86d4-d656b6cfa80a)
 
 무기 교체
 
+![ScreenShot00001](https://github.com/wjh6052/Portfolio_BP/assets/131844165/6ad0a6bb-e15a-4ae2-bd03-207177538cd7)
+
 스킬 아이콘 및 쿨타임
+
+![ScreenShot00007](https://github.com/wjh6052/Portfolio_BP/assets/131844165/19b8f1e9-a3e0-4ac4-ae4c-2b403dbf1954)
