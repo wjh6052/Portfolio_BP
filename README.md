@@ -19,8 +19,17 @@ Z클릭 시 캐릭터 앞으로 Line Trace로 확인 후 Climbing Start(State를
 
 https://github.com/wjh6052/Portfolio_BP/assets/131844165/a2c48446-451e-4df7-9e10-a5b5a0bccf9f
 
+점프(Space bar)
 
+날기 (점프 중 Space bar)
+![ScreenShot00008](https://github.com/wjh6052/Portfolio_BP/assets/131844165/cf4b9fb7-42a7-4c74-bd07-3e09b8c97b75)
 
+대쉬중 바닥에 닿이면 착지하며 Flight를 끝냄
+착지 애니메이션 중 바닥에 타입을 확인하여 타입에 맞는 나이아가라 효과가 나옴
+![landing](https://github.com/wjh6052/Portfolio_BP/assets/131844165/2edbdc38-b5ac-44af-8a0a-4c3e0a440b2d)
+
+대쉬중 바닥에 Line Trace로 바닥 타입을 확인하여 타입에 맞는 나이아가라 효과가 나옴
+![ScreenShot00012](https://github.com/wjh6052/Portfolio_BP/assets/131844165/67cf6b06-ce89-4948-ad75-b0f6f7657e0c)
 
 
 
@@ -77,6 +86,8 @@ https://github.com/wjh6052/Portfolio_BP/assets/131844165/494480f6-e381-4173-926a
 
 
 우클릭 가드 또는 줌
+
+Assassin
 
 마우스 휠클릭 락온
 ![ScreenShot00002](https://github.com/wjh6052/Portfolio_BP/assets/131844165/89be1de2-6f90-4599-beab-6db7dfc9e10a)
