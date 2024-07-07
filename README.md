@@ -14,7 +14,11 @@ Description
 Z클릭 시 캐릭터 앞으로 Line Trace로 확인 후 Climbing Start(State를 Climbing으로 교체, 중력 제거, Movement Mode Flying교체, 후 Line Trace에서 얻어온 위치로 이동)
 이동 중 Capsule Trace로 갈수있는 곳이 없을경우 갈방향의 앞뒤로 확인후 SideTurn 또는 ForwradTurn가 나오도록함
 위로 갈수없을경우 위와같은 방법으로 올라간 후 Climbing End(Start에서 교체한 값을 원래값대로 수정)
-https://github.com/wjh6052/Portfolio_BP/assets/131844165/e90cf15f-c47b-4194-a105-d3c4c0ed1fc3
+
+
+https://github.com/wjh6052/Portfolio_BP/assets/131844165/a2c48446-451e-4df7-9e10-a5b5a0bccf9f
+
+
 
 
 
