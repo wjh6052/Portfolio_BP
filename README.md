@@ -4,7 +4,7 @@
 
 ### 목차
 
-1. [이동]([https://google.com](https://github.com/users/wjh6052/projects/3/views/1?pane=issue&itemId=70189459))
+1. [이동](https://github.com/users/wjh6052/projects/3/views/1?pane=issue&itemId=70189459)
 
 2. [전투](https://github.com/users/wjh6052/projects/3/views/1?pane=issue&itemId=70202325)
 
